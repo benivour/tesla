@@ -1,3 +1,0 @@
-prometheus
-grafana
-new relic
